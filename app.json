@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-todo",
-    "slug": "react-native-todo",
+    "name": "bucket-list",
+    "slug": "bucket-list",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon2.png",
